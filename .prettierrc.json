@@ -1,0 +1,5 @@
+{
+  "rule": {
+    "prettier/prettier": ["error", { "endOfLine": "off" }]
+  }
+}
